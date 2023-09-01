@@ -2,7 +2,7 @@
 
 Currently working at [Lun](https://lun.energy) as a Business Engineer. Basically a platform engineer, but working with tools for sales, CX and marketing. I'm slowly transitioning back to FE engineering.
 
-I write [Despite Complexity](https://despitecomplexity.com), a pursuit of understanding complex systems.
+I run a publication about complex systems at [Despite Complexity](https://despitecomplexity.com).
 
 #### Previous experiences
 - CBS Students (Vice President) -> Lotta student politics and working with volunteers
