@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Tomas 👋 I care about shipping crisp FE code
 
-<!--
-**vemolista/vemolista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working at [Lun](https://lun.energy) as a Business Engineer. Basically a platform engineer, but working with tools for sales, CX and marketing. I'm slowly transitioning back to FE engineering.
 
-Here are some ideas to get you started:
+I learn about complex systems and pass on my learnings at [Despite Complexity](https://despitecomplexity.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Previous experiences
+- CBS Students (Vice President) -> Lotta student politics and working with volunteers
+- Siteimprove (Student Developer) -> FE development in React, TS
+In more detail on [LinkedIn](https://linkedin.com/in/tomasvemola/)
+
+#### Stuff I think is really cool and use every day
+- [Arc browser](https://arc.net)
+- [Obsidian.md](https://obsidian.md)
+- [Moonlander split keyboard from ZSA](https://www.zsa.io/moonlander/)
