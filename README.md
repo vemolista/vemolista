@@ -7,6 +7,7 @@ I run a publication about complex systems at [Despite Complexity](https://despit
 #### Previous experiences
 - CBS Students (Vice President) -> Lotta student politics and working with volunteers
 - Siteimprove (Student Developer) -> FE development in React, TS
+
 In more detail on [LinkedIn](https://linkedin.com/in/tomasvemola/)
 
 #### Stuff I think is really cool and use every day
